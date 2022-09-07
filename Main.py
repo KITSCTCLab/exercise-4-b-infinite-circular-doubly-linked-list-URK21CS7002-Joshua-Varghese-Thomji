@@ -9,6 +9,6 @@ for i in circular_linked_list:
   if i not in final_list:
     final_list.append(i)
 
-print(len(final_list)
+print(len(final_list))
 for i in final_list:
-      print(i, sep = " ")
+    print(i, sep = " ")
