@@ -11,4 +11,4 @@ for i in circular_linked_list:
 
 print(len(final_list))
 for i in final_list:
-    print(i, sep = " ")
+    print(i, end = " ")
